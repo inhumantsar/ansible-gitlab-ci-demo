@@ -1,0 +1,3 @@
+---
+# tasks file for dummy-role
+- debug: msg="hello world"
